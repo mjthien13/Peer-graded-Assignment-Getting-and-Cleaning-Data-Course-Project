@@ -1,4 +1,4 @@
-#CodeBook
+# CodeBook
 This is a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
 1. Downloading the dataset and assigning data to the relevant variables
